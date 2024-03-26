@@ -6,7 +6,7 @@ Installing and practicing basic node functions
 - Create a folder to work with, on your machine.
 - Open git terminal on your machine from within this folder
 - Check node version in terminal
-- Run npm init -y command to initial node Js
+- Run npm init -y command to initiate node Js
 - Open VS code from the terminal
 - Create a repository on github and clone it.
 - Confirm package.json shown in VScode.
